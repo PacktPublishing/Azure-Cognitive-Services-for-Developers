@@ -24,7 +24,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 If you want to build intelligent applications which can permeate your apps, websites, and bots with intelligent algorithms so you can see, hear, speak, understand, and interpret your users' needs through natural methods of communication, then this course is the first step in your journey!
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
+
 
 
 
