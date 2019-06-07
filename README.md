@@ -10,11 +10,11 @@ After working through this course, you will know what Cognitive Services are and
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-[*]Learn all about Cognitive Services and what they can do for you. This course handles each category: vision, speech, language, knowledge, and searches
-[*]Set up Cognitive Services on your own Azure account
-[*]Leverage the power of AI through a set of simple REST APIs
-[*]Use computer vision to detect objects and text in images, implement speech-to-text conversion, leverage the power of Bing to retrieve useful search results, and much more
-[*]Incorporate everything you've learned into a variety of applications, so you can easily translate it into your own real-life solutions
+[*]Learn all about Cognitive Services and what they can do for you. This course handles each category: vision, speech, language, knowledge, and searches<br/>
+[*]Set up Cognitive Services on your own Azure account<br/>
+[*]Leverage the power of AI through a set of simple REST APIs<br/>
+[*]Use computer vision to detect objects and text in images, implement speech-to-text conversion, leverage the power of Bing to retrieve useful search results, and much more<br/>
+[*]Incorporate everything you've learned into a variety of applications, so you can easily translate it into your own real-life solutions<br/>
 
  </LI></UL></DIV>
 
