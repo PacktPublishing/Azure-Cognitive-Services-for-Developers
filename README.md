@@ -10,13 +10,13 @@ After working through this course, you will know what Cognitive Services are and
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>How and where to find reliable existing components for your application 
-<LI>Reviewing commonly misused techniques in Odoo 
-<LI>Handling dynamic parameters using safe_eval 
-<LI>Mastering the use of access control lists, record rules, and data field security 
-<LI>Integrating Odoo with other systems 
-<LI>Developing a customized dashboard in Odoo 
-<LI>Advanced techniques: code auditing, module debugging, function profiling, and load testing </LI></UL></DIV>
+[*]Learn all about Cognitive Services and what they can do for you. This course handles each category: vision, speech, language, knowledge, and searches
+[*]Set up Cognitive Services on your own Azure account
+[*]Leverage the power of AI through a set of simple REST APIs
+[*]Use computer vision to detect objects and text in images, implement speech-to-text conversion, leverage the power of Bing to retrieve useful search results, and much more
+[*]Incorporate everything you've learned into a variety of applications, so you can easily translate it into your own real-life solutions
+
+ </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
