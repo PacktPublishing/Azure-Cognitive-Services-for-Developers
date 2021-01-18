@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/azure-cognitive-services-for-developers-video/9781838552565)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Azure-Cognitive-Services-for-Developers
 Azure Cognitive Services for Developers, published by Packt
 # Azure Cognitive Services for Developers [Video]
